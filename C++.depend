@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696482886 source:c:\users\ibayj\development\c++\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
